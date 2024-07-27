@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=laxmanp090404" alt="laxmanp090404" /></a> </p>
 
-- 🔭 I’m currently working on [Gadget Grove](https://github.com/laxmanp090404/Gadget_Grove)
+- 🔭 I’m currently working on [Showcasesphere]([https://github.com/axmanp090404/ShowcaseSphere]) my personal portfolio website.
 
 - 🌱 I’m currently learning **React,MongoDb,Node.js**
 
