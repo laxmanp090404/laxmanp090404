@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Laxman</h1>
-<h3 align="center">A 2nd Year B.E CSE Student Delving into the world of MERN and Exploring Cyber Space</h3>
+<h3 align="center">A 3rd Year B.E CSE Student Delving into the world of MERN and Exploring Cyber Space</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laxmanp090404&label=Profile%20views&color=0e75b6&style=flat" alt="laxmanp090404" /> </p>
 
