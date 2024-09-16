@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **laxmanpanjalingam2004@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAGLG4V9RW4/WeeJdY0g6QWzcSODHb8F5Q/view?utm_content=DAGLG4V9RW4&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://www.canva.com/design/DAGLG4V9RW4/WeeJdY0g6QWzcSODHb8F5Q/view?utm_content=DAGLG4V9RW4&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+- 📄 Know about my experiences by skimming through my [resume](https://www.canva.com/design/DAGLG4V9RW4/WeeJdY0g6QWzcSODHb8F5Q/view?utm_content=DAGLG4V9RW4&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
