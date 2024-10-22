@@ -1,10 +1,14 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Protest+Strike&size=35&letterSpacing=10&pause=2000&color=00FF7D&background=FFFFFF00&center=true&vCenter=true&random=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Laxman+P)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Protest+Strike&size=35&letterSpacing=10&pause=2000&color=00FF7D&background=FFFFFF00&center=true&vCenter=true&random=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Laxman+P)](https://git.io/typing-svg)<b><h2 align="center">FullStack Web Developer | Data Analyst | Software Engineer</h2></b>
+<b><h2 align="center">FullStack Web Developer | Data Analyst | Software Engineer</h2></b>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=laxmanp090404&label=Profile%20views&color=0e75b6&style=flat" alt="laxmanp090404" /> </p>
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=laxmanp090404&theme=radical&no-frame=true&row=1&column=7" alt="laxmanp090404" /></a> </p>
+
+## HACKTOBERFEST 2024  STATS
+[![An image of @laxmanp09042004's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/laxmanp09042004)](https://holopin.io/@laxmanp09042004)
 
 - 🔭 I’m currently working on [EstateEase](https://github.com/laxmanp090404/Estateease)
 
